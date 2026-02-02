@@ -47,11 +47,9 @@ jupyter notebook
 ```
 Open AppEngageAnalyzer.ipynb and run the cells step by step.
 
-# 📈 Results
+## 📈 Results
 
-The analysis highlights user engagement trends and behavioral patterns through visual insights, helping identify how users interact with the application over time.
+- The analysis highlights user engagement trends and behavioral patterns through visual insights, helping identify how users interact with the application over time.
 ---
-# Author
-**Tannu Jha**
-**Abriti Hazra**
-**Vaishnavi Singh**
+## Author
+**Team PsyAware**
