@@ -1,45 +1,65 @@
-# User Behavior Analysis Project
+# User Behavior Analysis
 
-This project is focused on analyzing user behavior using a dataset of user interactions. The analysis includes various visualizations and data processing techniques to uncover insights about user behavior.
+## 📌 Overview
+This project focuses on analyzing user behavior data to understand how users interact with an application. Using Python and data analysis techniques, the project explores engagement patterns, activity trends, and user interactions through data cleaning and visualization.
 
-## Table of Contents
+The goal is to transform raw user interaction data into meaningful insights that can help improve user experience and decision-making.
 
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+---
 
-## Project Overview
+## 📊 Features
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Visualizations for user engagement and behavior patterns
+- Insights into user activity trends
 
-The main goal of this project is to analyze user behavior data to gain insights into user interactions and activities. The project involves data cleaning, exploratory data analysis (EDA), and visualizations to understand patterns and trends.
+---
 
-## Installation
+## 🗂 Dataset
+The project uses a CSV file containing user behavior data such as:
+- User activity
+- Interaction frequency
+- Engagement metrics
 
-To get started with this project, follow the instructions below:
+*(See `userbehaviour.csv` for details.)*
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/user-behavior-analysis.git
-   cd user-behavior-analysis
-2. **Create a Virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirenments.txt
-4. **Run the Jupyter Notebook:**
-   ```bash
-   jupyter notebook
+---
 
-## Usage   
+## 🛠 Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
-Open the Jupyter Notebook and run through the cells to perform the analysis. The notebook includes steps for data cleaning, visualization, and analysis.
+---
 
-## Contributing   
-Contributions are welcome! Please feel free to submit a Pull Request. All modifications are welcome.
+## 🚀 Installation & Usage
 
-## License   
-This project is licensed under the MIT License. See the [License](#license) file for details.
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/user-behavior-analysis.git
+cd user-behavior-analysis
+```
+2. Create a virtual environment
+```bash
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
+3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+4. Run the notebook
+```bash
+jupyter notebook
+```
+Open AppEngageAnalyzer.ipynb and run the cells step by step.
+---
+## 📈 Results
+The analysis highlights user engagement trends and behavioral patterns through visual insights, helping identify how users interact with the application over time.
+---
+## Author
+**Team PsyAware**
  
+
