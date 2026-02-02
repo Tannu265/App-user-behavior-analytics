@@ -41,25 +41,27 @@ The project uses a CSV file containing user behavior data such as:
 git clone https://github.com/yourusername/user-behavior-analysis.git
 cd user-behavior-analysis
 ```
-2. Create a virtual environment
+### 2. Create a virtual environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
-3. Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-4. Run the notebook
+### 4. Run the notebook
 ```bash
 jupyter notebook
 ```
 Open AppEngageAnalyzer.ipynb and run the cells step by step.
----
+
 ## 📈 Results
+
 The analysis highlights user engagement trends and behavioral patterns through visual insights, helping identify how users interact with the application over time.
 ---
 ## Author
 **Team PsyAware**
  
+
 
