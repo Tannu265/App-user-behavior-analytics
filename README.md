@@ -1,5 +1,7 @@
 # User Behavior Analysis
 
+<img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2b303278-b326-4992-8806-a1c6bfa08e42" />
+
 ## 📌 Overview
 This project focuses on analyzing user behavior data to understand how users interact with an application. Using Python and data analysis techniques, the project explores engagement patterns, activity trends, and user interactions through data cleaning and visualization.
 
@@ -66,6 +68,7 @@ The analysis highlights user engagement trends and behavioral patterns through v
 ## Author
 **Team PsyAware**
  
+
 
 
 
