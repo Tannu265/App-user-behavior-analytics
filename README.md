@@ -55,6 +55,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Open AppEngageAnalyzer.ipynb and run the cells step by step.
+---
 
 ## 📈 Results
 The analysis highlights user engagement trends and behavioral patterns through visual insights, helping identify how users interact with the application over time.
@@ -62,6 +63,7 @@ The analysis highlights user engagement trends and behavioral patterns through v
 ## Author
 **Team PsyAware**
  
+
 
 
 
