@@ -40,7 +40,7 @@ The project uses a CSV file containing user behavior data such as:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/user-behavior-analysis.git
+git clone https://github.com/Tannu265/user-behavior-analysis.git
 cd user-behavior-analysis
 ```
 ### 2. Create a virtual environment
@@ -68,6 +68,7 @@ The analysis highlights user engagement trends and behavioral patterns through v
 ## Author
 **Team PsyAware**
  
+
 
 
 
